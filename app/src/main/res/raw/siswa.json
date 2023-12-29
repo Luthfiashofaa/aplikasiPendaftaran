@@ -1,0 +1,14 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nama": "Luthfia Shofa Dewi",
+      "tempatLahir" : "Tulungagung",
+      "tanggalLahir": "29-04-2003",
+      "agama": "Islam",
+      "alamat" : "Tulungagung",
+      "noHp" : "08123456789",
+      "NISN" : "202210"
+    }
+  ]
+}
